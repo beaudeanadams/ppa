@@ -4,7 +4,7 @@
 
 ```
 # 1. Download and trust luizribeiro's GPG key
-curl -sL "https://gpg.l9o.dev/" | sudo apt-key add -
+curl -sL gpg.l9o.dev | sudo apt-key add -
 
 # 2. Add the repository
 echo "deb https://ppa.l9o.dev/raspbian ./" | sudo tee /etc/apt/sources.list.d/luizribeiro.list
