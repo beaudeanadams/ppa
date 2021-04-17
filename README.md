@@ -7,7 +7,7 @@
 curl -sL gpg.l9o.dev | sudo apt-key add -
 
 # 2. Add the repository
-echo "deb https://ppa.l9o.dev/raspbian ./" | sudo tee /etc/apt/sources.list.d/luizribeiro.list
+echo "deb https://ppa.l9o.dev/raspbian ./" | sudo tee /etc/apt/sources.list.d/l9o.list
 
 # 3. Update
 sudo apt update
