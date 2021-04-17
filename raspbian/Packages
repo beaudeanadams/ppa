@@ -1,0 +1,16 @@
+Package: mariner3d
+Version: 0.1.1-1
+Architecture: armhf
+Maintainer: Luiz Ribeiro <luizribeiro@gmail.com>
+Installed-Size: 27630
+Pre-Depends: dpkg (>= 1.19.1), python3 (>= 3.7)
+Depends: libxslt1.1, libxml2, zlib1g
+Filename: ./mariner3d_0.1.1-1_armhf.deb
+Size: 7675420
+MD5sum: 3863ab841568347bbc5207b23eae6c69
+SHA1: 757cfbb70aa7a010a652e49852f0b7c33aa5f174
+SHA256: 5fafdea300fe53935338bdf82259b9c0c82345b4def7e48bfb8fbeb5fd6445d9
+Section: python
+Priority: extra
+Description: Web application for controlling Elegoo Mars 3D printers
+
